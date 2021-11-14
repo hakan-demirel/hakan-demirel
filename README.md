@@ -39,7 +39,7 @@
 <br>
 <p align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakan-demirel&layout=compact"></img><img width="50%" src="https://github-readme-stats.vercel.app/api?username=hakan-demirel&show_icons=true&theme=dark">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakan-demirel&layout=compact"></img> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hakan-demirel&show_icons=true&theme=dark">
 </img>
 
 </p>
